@@ -5,5 +5,6 @@ Esp8266 related projects and reference material
 https://www.youtube.com/c/stechiezdiy
 
 ## Support My channel
-buymeacoffee.com/?via=stechiezdiy
+buymeacoffee.com/stechiezdiy                
+
 
